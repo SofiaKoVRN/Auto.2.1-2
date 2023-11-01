@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/85a1l5ci5j7siqcy/branch/main?svg=true)](https://ci.appveyor.com/project/SofiaKoVRN/auto-dz-2-1-2/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/85a1l5ci5j7siqcy?svg=true)](https://ci.appveyor.com/project/SofiaKoVRN/auto-dz-2-1-2)
